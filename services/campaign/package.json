@@ -1,0 +1,8 @@
+{
+  "name": "campaign",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "echo \"Define a dev script here\""
+  }
+}
